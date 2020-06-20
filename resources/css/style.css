@@ -1,0 +1,49 @@
+/*main styles*/
+body {
+    font-family: Verdana;
+    color: white;
+    text-align: center;
+    background: black;
+    margin: 16px 16px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+    margin: 32px auto;
+}
+
+a {
+    color: aquamarine;
+    margin: 32px auto;
+    text-decoration: underline;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    margin: 32px auto;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+    margin: 32px auto;
+}
+
+.image_container {
+    margin: 32px auto;
+}
+
+.video {
+    margin: 32px auto;
+}
+
+.copyright {
+    text-align: right;
+    margin: 32px auto;
+}
+
+i {
+    color: white;
+}
