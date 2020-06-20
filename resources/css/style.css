@@ -42,8 +42,10 @@ p {
 .copyright {
     text-align: right;
     margin: 32px auto;
+    color: gray;
 }
 
 i {
-    color: white;
+    color:gray;
+
 }
